@@ -35,7 +35,7 @@
 
 ## 💻 Link to Front End <a name="link-to-back-end"></a>
 
-[Link to Front End API](https://github.com/flemton/hello-rails-front-end)
+[Link to Front End API](https://github.com/flemton/hello-react-front-end)
 
 <p align="right"\><a href="#readme-top"\>back to top</a></p>
 
