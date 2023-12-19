@@ -9,7 +9,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Hello Rails Back End ](#-hello-rails-front-end-)
+- [📖 Hello Rails Back End ](#-hello-rails-back-end-)
     - [💻 Link to Front End ](#-link-to-front-end-)
     - [🛠 Built With ](#-built-with-)
         - [Tech Stack ](#tech-stack-)
@@ -33,9 +33,9 @@
 <p align="right"\><a href="#readme-top"\>back to top</a></p>
 
 
-## 💻 Link to Back End <a name="link-to-back-end"></a>
+## 💻 Link to Front End <a name="link-to-back-end"></a>
 
-[Link to Back End API](https://github.com/flemton/hello-rails-back-end)
+[Link to Front End API](https://github.com/flemton/hello-rails-front-end)
 
 <p align="right"\><a href="#readme-top"\>back to top</a></p>
 
