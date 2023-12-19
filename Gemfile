@@ -48,3 +48,5 @@ end
 
 gem 'faker'
 gem 'rack-cors'
+
+gem 'rubocop', '>= 1.0', '< 2.0'
